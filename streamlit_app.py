@@ -72,7 +72,7 @@ def veteriner_var_mi(sayi):
 st.title("🐾 Belediye Bilgi ve Sokak Hayvanları Hizmet Analizi")
 print(df)
 # Boş seçenekli belediye listesi
-belediye_listesi = ["👈 Bir belediye seçin"] + sorted(df['BELEDİYE ADI'].dropna().unique().tolist())
+belediye_listesi = sorted(df['BELEDİYE ADI'].dropna().unique().tolist())
 
 # Kullanıcıya açılır kutu sunuluyor
 belediye_adi_input = st.selectbox("Bir belediye seçin:", belediye_listesi)
