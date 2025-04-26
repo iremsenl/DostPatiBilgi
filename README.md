@@ -8,6 +8,8 @@ Yazılımın kopyalanması, dağıtılması, değiştirilmesi, türev çalışma
 
 Bu yazılım "OLDUĞU GİBİ" (AS IS) sunulmaktadır ve kullanımdan doğabilecek herhangi bir zarardan İrem Şenol sorumlu tutulamaz.
 
+Bu lisans süresizdir ve lisans sahibinin yazılı olarak feshetmesi dışında devam eder.
+
 İzin ve sorular için iletişim:  
 **tr.iremsenol@gmail.com**
 
