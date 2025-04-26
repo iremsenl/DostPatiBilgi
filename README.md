@@ -1,3 +1,20 @@
+## Lisans ve Kullanım Koşulları
+
+Bu projenin tüm kaynak kodları ve fikri mülkiyet hakları **İrem Şenol**’a aittir.  
+Yazılım yalnızca **inceleme, araştırma ve kişisel kullanım** amaçlıdır.  
+Herhangi bir ticari veya toplu kullanım için önceden yazılı izin alınması zorunludur.
+
+Yazılımın kopyalanması, dağıtılması, değiştirilmesi, türev çalışmalarının oluşturulması, tersine mühendislik yapılması veya başka projelerde/ticari ortamlarda kullanılması **yasaktır**.
+
+Bu yazılım "OLDUĞU GİBİ" (AS IS) sunulmaktadır ve kullanımdan doğabilecek herhangi bir zarardan İrem Şenol sorumlu tutulamaz.
+
+İzin ve sorular için iletişim:  
+**tr.iremsenol@gmail.com**
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
 # 🎈 Blank app template
 
 A simple Streamlit app template for you to modify!
